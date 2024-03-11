@@ -8,6 +8,6 @@ function addUser() {
   localStorage.getItem("player1_name", player1_name);
   localStorage.getItem("player2_name", player2_name);
   //Assign "game_page.html" to window.location
-  window.location = "game_page.html"
+  window.location = "index.html";
 }
 
